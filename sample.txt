@@ -1,0 +1,3 @@
+Groovy is powerful.
+Groovy is concise.
+Groovy is fun!

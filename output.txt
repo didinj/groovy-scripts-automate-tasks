@@ -1,0 +1,3 @@
+Automated file writing with Groovy!
+Line 2 added.
+Appending another line.
